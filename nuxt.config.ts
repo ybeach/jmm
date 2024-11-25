@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   srcDir: 'src/',
-  css:['@/assets/css/style.css'],
+  css:['@/assets/css/style.css', '@/assets/css/style.css'],
   app: {
     head:{
       title: 'JSPS科研費基盤研究（S）24H00011',

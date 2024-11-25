@@ -8,6 +8,7 @@ body {
     font-size: 1.4rem;
     font-family: neue-haas-grotesk-text, noto-sans-cjk-jp, sans-serif;
     -webkit-text-size-adjust: 100%;
+    margin: 0;
 }
 
 *,
@@ -23,3 +24,18 @@ a:active {
     color: #ffffffee;
     text-decoration: none;
 }
+
+.default {
+    padding: 15rem 20rem 50rem;
+}
+
+p {
+    margin: 2rem 0 4rem 0;
+    line-height: 2rem ;
+}
+
+h1,
+h2 {
+    margin: 4rem 0 4rem;
+}
+
