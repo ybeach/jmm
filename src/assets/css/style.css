@@ -17,20 +17,12 @@ body {
     box-sizing: border-box;
 }
 
-a:link,
-a:visited,
-a:hover,
-a:active {
-    color: #ffffffee;
-    text-decoration: none;
-}
-
 .default {
-    padding: 15rem 20rem 50rem;
+    padding: 10rem 5rem 10rem;
 }
 
 p {
-    margin: 2rem 0 4rem 0;
+    margin: 1rem 0 1rem 0;
     line-height: 2rem ;
 }
 
@@ -38,4 +30,6 @@ h1,
 h2 {
     margin: 4rem 0 4rem;
 }
-
+h3 {
+    text-decoration: underline;
+}

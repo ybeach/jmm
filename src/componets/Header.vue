@@ -11,11 +11,11 @@
       <div>
         <nav>
           <NuxtLink to="/" class="nav">トップ</NuxtLink>
-          <NuxtLink to="/summary" class="nav">研究計画</NuxtLink>
+          <NuxtLink to="/summary" class="nav">概要</NuxtLink>
           <NuxtLink to="/member" class="nav">メンバー</NuxtLink>
           <NuxtLink to="/result" class="nav">研究成果</NuxtLink>
           <NuxtLink to="/event" class="nav">イベント</NuxtLink>
-          <NuxtLink to="/contact" class="nav">連絡先</NuxtLink>
+          <NuxtLink to="/link" class="nav">リンク</NuxtLink>
         </nav>
       </div></div>
     </header>
@@ -39,7 +39,7 @@
   }
   
   .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -62,4 +62,12 @@
     margin: 4rem 4rem 4rem;
     text-align: center;
   }
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: #ffffffee;
+    text-decoration: none;
+}
   </style>
