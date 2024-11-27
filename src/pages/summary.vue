@@ -20,10 +20,15 @@
                 最終的に、過去から現在を、多々の分野をシームレスにつなぐデータインフラストラクチャとして成長させ、
                 日本列島記憶継承モデルの確立を目指す。
             </p>
+            <!--
             <NuxtImg
                 src="/fig/fig1.png" 
                 sizes="(max-width: 320px) 280px, (max-width: 768px) 600px, 800px"
                 alt="研究概要" />
+            -->
+            <img src="./fig/fig1.png"
+			    width = "650px"
+			    alt= "研究概要" />
             <p>
                 キーワード：日本史、史料、データインフラストラクチャ、データ駆動型、異分野融合 
             </p>
@@ -87,10 +92,15 @@
                 <li>
                     “異分野融合データファブリック”の実現へ：史料データ高付加価値化の実現</li>
             </ul>
+            <!--
             <NuxtImg
                 src="/fig/fig2.png" 
                 sizes="(max-width: 320px) 280px, (max-width: 768px) 600px, 800px"
                 alt="研究概要" />
+            -->
+            <img src="./fig/fig2.png"
+			    width = "650px"
+			    alt= "計画" />
         </div>
     </div>
 </template>
