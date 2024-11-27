@@ -26,7 +26,7 @@
                 sizes="(max-width: 320px) 280px, (max-width: 768px) 600px, 800px"
                 alt="研究概要" />
             -->
-            <img src="./fig/fig1.png"
+            <img src="https://www.hi.u-tokyo.ac.jp/cdps/jmm/fig/fig1.png"
 			    width = "650px"
 			    alt= "研究概要" />
             <p>
@@ -98,7 +98,7 @@
                 sizes="(max-width: 320px) 280px, (max-width: 768px) 600px, 800px"
                 alt="研究概要" />
             -->
-            <img src="./fig/fig2.png"
+            <img src="https://www.hi.u-tokyo.ac.jp/cdps/jmm/fig/fig2.png"
 			    width = "650px"
 			    alt= "計画" />
         </div>

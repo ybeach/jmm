@@ -7,7 +7,7 @@
             alt="研究概要" />
 			-->
 			<!---sizes="(max-width: 320px) 320px, (max-width: 768px) 768px, 1200px, (max-width: 906px) 906px, 1200px"-->
-		<img src="./fig/banner.png"
+		<img src="https://www.hi.u-tokyo.ac.jp/cdps/jmm/fig/banner.png"
 			width = "906px"
 			alt= "バナー" />
 		<h2>おしらせ</h2>
