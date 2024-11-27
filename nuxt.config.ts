@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   srcDir: 'src/',
   css:['@/assets/css/style.css', '@/assets/css/style.css'],
 
+  ssr: false,
+  target: 'static',
+
   app: {
     head:{
       title: 'JSPS科研費基盤研究（S）24H00011',
