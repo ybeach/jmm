@@ -21,8 +21,8 @@ export default defineNuxtConfig({
       htmlAttrs:{
         lang: 'ja',
       },
-      baseURL: "/cdps/jmm/",
-    }
+    },
+    baseURL: "/cdps/jmm/",
   },
 
   modules: ['@nuxt/image']
