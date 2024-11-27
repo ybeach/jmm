@@ -21,6 +21,7 @@ export default defineNuxtConfig({
       htmlAttrs:{
         lang: 'ja',
       },
+      baseURL: "/cdps/jmm/",
     }
   },
 
