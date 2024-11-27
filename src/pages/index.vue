@@ -24,7 +24,7 @@
 			<p>本プロジェクトの概要を示します。 [<NuxtLink to="/summary">ページへ</NuxtLink>] </p>
 		</div>
 		<div><h3>メンバー</h3>
-			<p>本プロジェクトのメンバー一覧です。 [<NuxtLink to="/summary">ページへ</NuxtLink>] </p>
+			<p>本プロジェクトのメンバー一覧です。 [<NuxtLink to="/member">ページへ</NuxtLink>] </p>
 		</div>
 		<div><h3>研究成果</h3>
 			<p>本プロジェクトおよび関連プロジェクトの研究成果の一覧です。[<NuxtLink to="/result">ページへ</NuxtLink>]（現在整備中）</p>
