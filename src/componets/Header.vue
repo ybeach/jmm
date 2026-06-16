@@ -4,7 +4,7 @@
       <div>
         <nuxt-link :to='`/`'>
           <h1 class="title">
-            <div class="subtitle">JSPS科研費基盤研究（S）(24H00011)</div>
+            <div class="subtitle">JSPS科研費基盤研究（S）(24H00011, 25K24614)</div>
             「史料データセンシングに基づく日本列島記憶継承モデルの確立」
           </h1>
         </nuxt-link>

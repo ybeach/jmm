@@ -13,6 +13,7 @@
 
             <li>KAKEN [<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24H00011/">研究課題ページ</a>]</li>
             <li>科学研究費助成事業（科研費） 基盤研究（S） [<a href="https://www.jsps.go.jp/j-grantsinaid/12_kiban/">JSPSサイト</a>]</li> 
+            <li>科学研究費 学術変革領域（A）「歴史情報学の創成」 [<a href="https://dighis.rekihaku.ac.jp/">サイト</a>]</li>
         </ul>
         
     </div>

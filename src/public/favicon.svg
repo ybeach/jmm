@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JMM favicon">
+  <rect width="64" height="64" rx="12" fill="#5ba9f7"/>
+  <path d="M16 12h23l9 9v31H16z" fill="#ffffff"/>
+  <path d="M39 12v10h9z" fill="#d8ecff"/>
+  <path d="M22 26h20M22 34h20M22 42h12" stroke="#2d6fb0" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="21" cy="48" r="4" fill="#0f4c81"/>
+  <circle cx="35" cy="48" r="4" fill="#0f4c81"/>
+  <circle cx="48" cy="38" r="4" fill="#0f4c81"/>
+  <path d="M25 47h6M38 46l7-6" stroke="#0f4c81" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
